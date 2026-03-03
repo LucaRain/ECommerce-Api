@@ -1,0 +1,20 @@
+# secrets
+**/appsettings.Development.json
+**/appsettings.json
+.env
+
+# uploaded images
+**/wwwroot/images/*
+!**/wwwroot/images/.gitkeep
+
+# build output
+**/bin/
+**/obj/
+
+# IDE
+.vs/
+.vscode/
+*.user
+
+# docker
+docker-compose.override.yml
